@@ -25,3 +25,9 @@
     height: 100%;
     object-fit: cover;
 }
+.book-details-item{
+    margin-bottom: 1.4rem;
+}
+.book-details-item.description{
+    opacity: 0.8;
+}
