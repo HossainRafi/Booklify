@@ -48,3 +48,16 @@
     outline: -1px solid slategray;
     border-radius: 8px;
 }
+
+@media screen and (min-width: 768px){
+    .book-details-content{
+        grid-template-columns: 40% 60%;
+        gap: 0
+    }
+    .book-details-img{
+        padding: 0 6rem 0 2rem;
+    }
+    .book-details-img img{
+        max-width: 100%;
+    }
+}
