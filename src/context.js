@@ -39,7 +39,7 @@ const AppProvider = ({ children }) => {
         setBooks(newBooks);
 
         if (newBooks.length > 1) {
-          setResultTitle("Your Search Result");
+          setResultTitle("Here Is Your Search Results");
         } else {
           setResultTitle("No Search Result Found!");
         }
