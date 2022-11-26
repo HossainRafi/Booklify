@@ -12,3 +12,16 @@
 .back-btn span{
     margin-left: 1rem;
 }
+.book-details-content{
+    gap: 4rem;
+}
+.book-details-img{
+    max-height: 600px;
+    overflow: hidden;
+}
+.book-details-img img{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
