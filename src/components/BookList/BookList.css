@@ -9,7 +9,7 @@
 .book-item {
   padding: 3rem 2rem;
   border-radius: 4px;
-  background-color: var(--white-color);
+  background-color: var(--grey-color);
   box-shadow: #0000000d 0px 5px 15px 0px;
   transition: var(--transition);
 }
